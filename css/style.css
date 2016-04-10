@@ -1,0 +1,50 @@
+
+body {
+  background-color: #9BC2CF;
+  text-align: center;
+}
+
+.heading {
+  text-align: center;
+}
+
+h1 {
+  color: #FE5006;
+  font-family: Lobster;
+  serif;
+  font-size: 4.5em;
+  margin-top: -0.5em;
+}
+
+h4 {
+  color: #FFFFFF;
+  font-family: cabin, sans-serif;
+  font-size: 1em;
+  margin-top: -1.75em;
+  font-weight: lighter;
+  margin-bottom: 4em;
+}
+
+.fa-shopping-basket {
+  display: inline-block;
+  color: #FFFFFF;
+  margin-top: 2em;
+}
+
+.fa {
+  border-radius: 50%;
+  padding: 0.5em;
+  margin: 1.25em 5px;
+  border: 2px solid #FFFFFF;
+  text-align: center;
+  display: inline;
+}
+
+#add-items {
+  border-radius: 10px;
+  width: 350px;
+  height: 1.5em;
+  text-align: center;
+  font-family: cabin, sans-serif;
+  font-size: 1em;
+}
