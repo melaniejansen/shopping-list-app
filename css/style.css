@@ -1,6 +1,6 @@
 
 body {
-  background-color: #9BC2CF;
+  background-color: #8baeba;
   text-align: center;
 }
 
@@ -31,7 +31,7 @@ h4 {
   margin-top: 2em;
 }
 
-.fa {
+.fa-shopping-basket {
   border-radius: 50%;
   padding: 0.5em;
   margin: 1.25em 5px;
@@ -47,4 +47,33 @@ h4 {
   text-align: center;
   font-family: cabin, sans-serif;
   font-size: 1em;
+}
+
+p {
+	color: #FFFFFF;
+    width: 350px;
+    border-radius: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    vertical-align: middle;
+    line-height: 1.5em;
+    font-family: cabin, sans-serif;
+    font-size: 1em;
+    border: 1px solid #FFFFFF;
+}
+
+ul {
+	padding: 0;
+}
+
+.fa-check {
+	float: left;
+	margin-left: 1em;
+	margin-top: 4px;
+}
+
+.fa-times {
+	float: right;
+	margin-right: 1em;
+	margin-top: 4px;
 }
